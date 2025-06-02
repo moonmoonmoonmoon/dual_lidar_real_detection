@@ -107,8 +107,13 @@ python record_two_lidars_pcap_data.py
 ```
 
 ## 🎥 System Demo
+🖼️ Quick Preview
+<div align="center">
+  <img src="demo_preview.gif" alt="Dual LiDAR Detection Demo" width="700">
+</div>
 
-[📹 Watch Demo Video](https://github.com/moonmoonmoonmoon/dual_lidar_real_detection/releases/download/v1.0.0/Boston_Demo.mov)
+📥 Full Demo Video
+[📹 Download HD Demo Video (71.7MB)](https://github.com/moonmoonmoonmoon/dual_lidar_real_detection/releases/download/v1.0.0/Boston_Demo.mov)
 
 ## ⚙️ System Configuration
 
