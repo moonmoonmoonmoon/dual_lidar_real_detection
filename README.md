@@ -108,7 +108,7 @@ python record_two_lidars_pcap_data.py
 
 ## 🎥 System Demo
 
-[📹 Watch Demo Video](https://github.com/moonmoonmoonmoon/dual_lidar_real_detection/releases/download/v1.0/Boston_Demo.mov)
+[📹 Watch Demo Video](https://github.com/moonmoonmoonmoon/dual_lidar_real_detection/releases/download/v1.0.0/Boston_Demo.mov)
 
 ## ⚙️ System Configuration
 
