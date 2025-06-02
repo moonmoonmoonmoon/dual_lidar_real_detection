@@ -2,7 +2,7 @@
 
 A real-time object detection and safety warning system based on dual LiDAR sensors, specifically designed for autonomous driving and intelligent vehicle environmental perception and safety protection.
 
-## 🎯 Core Features
+## 🎯 Core Features7
 
 ### 🚗 Intelligent Safety Warning
 - **Static Obstacle Detection**: Triggers alerts when static objects (barriers, cones, etc.) are within the lateral safety threshold
